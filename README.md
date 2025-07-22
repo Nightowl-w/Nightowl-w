@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Nightowl-w</h1>
+<h1 align="center">🤍 Manu</h1>
 <h3 align="center">pwning your heart <3</h3>
 
 <p align="center">Dead / मृत</p>
