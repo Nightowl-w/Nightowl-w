@@ -1,10 +1,3 @@
-<h1 align="center">🤍 Manu</h1>
-<h3 align="center">pwning your heart <3</h3>
-
-<p align="center">Dead / मृत</p>
-
----
-
 ### 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0vulz)
