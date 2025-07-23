@@ -1,7 +1,7 @@
 ### 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0vulz)
-[![Discord](https://img.shields.io/badge/Join%20Me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8ymxk7hN)
+[![Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8ymxk7hN)
 
 ---
 
